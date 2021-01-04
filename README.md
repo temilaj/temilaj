@@ -39,18 +39,29 @@ I am a software and machine learning engineer with over six years of experience 
 [![AWS](https://img.shields.io/badge/-AWS-000?style=flat-square&logo=Amazon-AWS&logoColor=fff)](https://aws.amazon.com/)
 [![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=Vue.js)](https://vuejs.org)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)](https://Reactjs.org)
+[![React Native](https://img.shields.io/badge/-React%20Native-61dafb?style=flat-square&logo=React&logoColor=000)](https://reactnative.dev/)
+[![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat-square&logo=angular&logoColor=ffffff)](https://Angular.io)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-fff?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)
-[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
+<a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="20" height="20"/> Open CV</a> 
+[![scikit-learn](https://img.shields.io/badge/-scikit%20learn-fff?style=flat-square&logo=scikit-learn)](https://scikit-learn.org)
+[![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/-Pandas-130654?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-d64292?style=flat-square&logo=graphql&logoColor=ffffff)](https://www.graphql.org/)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 [![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=Docker)]()
+[![Nginx](https://img.shields.io/badge/-Nginx-099639?style=flat-square&logo=nginx&logoColor=fff)](https://www.nginx.com/)
 [![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?style=flat-square&logo=CircleCI&logoColor=fff)]()
 [![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=Linux&logoColor=FCC624)]()
 [![Jira](https://img.shields.io/badge/-Jira-000?style=flat-square&logo=Jira-Software&logoColor=0052CC)]()
 [![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?style=flat-square&logo=Cisco)]()
+### Databases
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=Postgresql&logoColor=ffffff)](https://www.postgresql.org/)
+[![FireBase](https://img.shields.io/badge/-Firebase-fff?style=flat-square&logo=firebase)](https://firebase.google.com/)
 
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temilaj&show_icons=true&locale=en&layout=compact" alt="temilaj" /></p>
