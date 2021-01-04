@@ -19,7 +19,7 @@ I am a software and machine learning engineer with over six years of experience 
 ![GitHub followers](https://img.shields.io/github/followers/temilaj?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://temilajumoke.com/)](https://temilajumoke.com/)
 
-<h3 align="left">Languages and Tools I code with:</h3>
+<h3 align="left">Languages and Tools I create with:</h3>
 
 ### Languages
 
@@ -88,8 +88,8 @@ I am a software and machine learning engineer with over six years of experience 
 [![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=Linux&logoColor=FCC624)]()
 [![Jira](https://img.shields.io/badge/-Jira-000?style=flat-square&logo=Jira-Software&logoColor=0052CC)]()
 [![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?style=flat-square&logo=Cisco)]()
-<br />
+<!-- <br />
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temilaj&show_icons=true&locale=en&layout=compact" alt="temilaj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temilaj&show_icons=true&locale=en" alt="temilaj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temilaj&show_icons=true&locale=en" alt="temilaj" /></p> -->
