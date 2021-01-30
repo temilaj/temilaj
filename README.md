@@ -64,6 +64,7 @@ I am a software and machine learning engineer with over six years of experience 
 [![scikit-learn](https://img.shields.io/badge/-scikit%20learn-fff?style=flat-square&logo=scikit-learn)](https://scikit-learn.org)
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="20" height="20"/> Open CV</a> 
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-fff?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/-Keras-d00000?style=flat-square&logo=keras)](https://www.tensorflow.org/)
 
 ### Databases
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
