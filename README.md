@@ -90,9 +90,8 @@ I am a software and machine learning engineer with over six years of experience 
 [![Jira](https://img.shields.io/badge/-Jira-000?style=flat-square&logo=Jira-Software&logoColor=0052CC)]()
 [![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?style=flat-square&logo=Cisco)]()
 
-<p style="display:none">
-![Profile views](https://gpvc.arturio.dev/temilaj)
-</p>
+<!-- ![Profile views](https://gpvc.arturio.dev/temilaj) -->
+
 <!-- <br />
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temilaj&show_icons=true&locale=en&layout=compact" alt="temilaj" /></p>
