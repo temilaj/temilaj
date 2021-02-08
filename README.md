@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Temi Lajumoke</h1>
-I am a software and machine learning engineer with over six years of experience working on full-stack web  and mobile technologies in companies like <a href="https://www.coursera.org/" rel="noopener" target="_blank">Coursera</a> , <a href="https://www.andela.com/" rel="noopener" target="_blank">Andela</a> , and more. Recently, I decided to expand my interest in leveraging technology to advance human potential, by pursuing a master's degree in Artificial Intelligence (computer science) at <a href="https://www.bu.edu/" rel="noopener" target="_blank">Boston University</a></h3>
+I am a software and machine learning engineer with over six years of experience working on full-stack web  and mobile technologies in companies like <a href="https://www.coursera.org/" rel="noopener" target="_blank">Coursera</a> , <a href="https://www.andela.com/" rel="noopener" target="_blank">Andela</a> , and more. Recently, I decided to expand my interest in leveraging technology to advance human potential, by pursuing a master's degree in Computer Science (focusing on Artificial Intelligence) at <a href="https://www.bu.edu/" rel="noopener" target="_blank">Boston University</a></h3>
 
 
 
@@ -89,6 +89,10 @@ I am a software and machine learning engineer with over six years of experience 
 [![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=Linux&logoColor=FCC624)]()
 [![Jira](https://img.shields.io/badge/-Jira-000?style=flat-square&logo=Jira-Software&logoColor=0052CC)]()
 [![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?style=flat-square&logo=Cisco)]()
+
+<p style="display:none">
+![Profile views](https://gpvc.arturio.dev/temilaj)
+</p>
 <!-- <br />
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=temilaj&show_icons=true&locale=en&layout=compact" alt="temilaj" /></p>
