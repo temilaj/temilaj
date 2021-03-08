@@ -5,11 +5,11 @@ I am a software and machine learning engineer with over six years of experience 
 
 - 🌱 I’m currently taking a deep dive into Machine Learning and Computer Vision
 
-- 💬 Ask me about **Node, React, React Native, ASP.NET Core, Artificial Intelligence, Computer Vision and Machine Learning**
+- 💬 Ask me about **Node, React, React Native, ASP.NET Core, AI, Open CV and ML Models**
 
 - 📫 How to reach me: `temi[at]temilajumoke.com`
 
-- 📄 [Resume](https://docs.google.com/document/d/10VwUDE_BDvAQTlE0b_lTKByrhOLKa_qZHG6TGFbftUg/edit?usp=sharing)
+- 📄 [Resume](https://docs.google.com/document/d/1fa5pHNsFP2ZqXPQFSB2PaGMHz7oKNrquWjEbdHsG2yw/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left"> <a href="https://twitter.com/temilaj" target="_blank"><img src="https://img.shields.io/twitter/follow/temilaj?logo=twitter&style=for-the-badge" alt="temilaj" /></a> </p>
