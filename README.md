@@ -9,7 +9,7 @@ I am a software and machine learning engineer with over six years of experience 
 
 - 📫 How to reach me: `temi[at]temilajumoke.com`
 
-- 📄 [Resume](https://docs.google.com/document/d/1fa5pHNsFP2ZqXPQFSB2PaGMHz7oKNrquWjEbdHsG2yw/edit?usp=sharing)
+- 📄 [Resume](https://docs.google.com/document/d/1w9dH-xygUSasfYCD-4sjoKMiKbKdwgd84tTRAzzJ9Sc/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left"> <a href="https://twitter.com/temilaj" target="_blank"><img src="https://img.shields.io/twitter/follow/temilaj?logo=twitter&style=for-the-badge" alt="temilaj" /></a> </p>
